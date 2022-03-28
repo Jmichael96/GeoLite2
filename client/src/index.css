@@ -1,0 +1,59 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  letter-spacing: 1px;
+  background: #444444;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  letter-spacing: 1px;
+}
+
+.large-shadow {
+  box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
+}
+
+.small-shadow {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, .2);
+}
+
+.light-text {
+  color: white;
+}
+
+.dark-text {
+  color: black;
+}
+
+.large-rad {
+  border-radius: 4px;
+}
+
+.small-rad {
+  border-radius: 3px;
+}
+
+/* wraps around the label and input element */
+
+.form-block {
+  margin: 1rem 0;
+}
+
+/* label elements */
+
+.input-label {
+  font-weight: 600;
+  font-size: 1.1rem;
+  display: block;
+  margin: 1.5rem 0 .5rem 0
+}
