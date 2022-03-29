@@ -3,7 +3,7 @@
 ![Demonstration mov](https://user-images.githubusercontent.com/82400552/160503324-4cdaad9e-f1d7-4879-a5a7-07cd381f976e.gif)
 
 ## Prerequisites
-- > git clone https://github.com/Jmichael96/GeoLite2.git (Please note: This may take a few moments due to the mmdb being included in this. This of course, would be not be ideal, but I wasn't sure how I should give y'all the DB)
+- > git clone https://github.com/Jmichael96/GeoLite2.git (Please note: This may take a few moments due to the mmdb being included in this. This of course, is not best practice nor what I wanted to do, but I wasn't sure how I should give y'all the DB)
 - > cd GeoLite2
 - > npm install 
 - > npm start
